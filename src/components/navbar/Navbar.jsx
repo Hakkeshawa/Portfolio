@@ -18,7 +18,7 @@ const Navbar = () => {
           <a href="https://www.facebook.com/profile.php?id=100012767461693">
             <img src="/facebook.png" alt="" />
           </a>
-          <a href="www.linkedin.com/in/aleksei-danilin-45a644287">
+          <a href="https://www.linkedin.com/in/aleksei-danilin-45a644287/">
             <img src="/linkedin.png" alt="" />
           </a>
         </div>
