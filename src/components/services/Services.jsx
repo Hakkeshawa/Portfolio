@@ -64,7 +64,7 @@ const Services = () => {
           <p>
             I can create prototypes for websites and banners in Figma, prototype can contain different pages, and will have a responsive design
           </p>
-          <button>Go</button>
+          
         </motion.div>
         <motion.div
           className="box"
@@ -74,7 +74,7 @@ const Services = () => {
           <p>
             I can create a website for you by using HTML, CSS and JS. First version of this portfolio was created by using them!
           </p>
-          <button>Go</button>
+          
         </motion.div>
         <motion.div
           className="box"
@@ -84,7 +84,7 @@ const Services = () => {
           <p>
             I can create a website by using React. You can see reference of my work with React, by looking at the website you're in right now!
           </p>
-          <button>Go</button>
+          
         </motion.div>
         <motion.div
           className="box"
@@ -94,7 +94,7 @@ const Services = () => {
           <p>
             I can also work as a backend developer! I know PHP, SQL, Python, Node.JS
           </p>
-          <button>Go</button>
+          
         </motion.div>
       </motion.div>
     </motion.div>
