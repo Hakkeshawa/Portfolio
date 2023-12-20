@@ -25,7 +25,7 @@ const items = [
     id: 4,
     title: "And a lot more projects",
     img: "git.png",
-    desc: "Check my GitHub to see my projects!",
+    desc: 'Check my <a href="https://github.com/Hakkeshawa">GitHub</a> to see my projects!',
   },
 ];
 
